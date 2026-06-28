@@ -1,0 +1,14 @@
+# VS Code Settings
+.vscode/
+
+# macOS System Files
+.DS_Store
+
+# Compiled Files
+*.o
+*.out
+*.exe
+
+# Temporary Files
+*.log
+SmartTrafficSystem
