@@ -1,2 +1,2 @@
 # Smart-Traffic-System
-author : Mridul sen 
+Author : Mridul sen 
