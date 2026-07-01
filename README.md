@@ -1,2 +1,3 @@
 # Smart-Traffic-System
-Author : Mridul sen 
+Author : Mridul sen , Kanchan Yadav
+
